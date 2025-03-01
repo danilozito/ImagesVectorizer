@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pypotrace
+matplotlib 
+pillow 
+argparse 
+svgwrite
+streamlit
